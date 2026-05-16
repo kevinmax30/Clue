@@ -2,7 +2,7 @@
   "name": "Clue — Bloc de Pistas",
   "short_name": "Clue",
   "description": "Bloc de notas digital para el juego Clue / Cluedo",
-  "start_url": "/",
+  "start_url": "/Clue/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0806",
