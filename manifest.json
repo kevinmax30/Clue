@@ -1,0 +1,26 @@
+{
+  "name": "Clue — Bloc de Pistas",
+  "short_name": "Clue",
+  "description": "Bloc de notas digital para el juego Clue / Cluedo",
+  "start_url": "/Clue/index.html",
+  "scope": "/Clue/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0806",
+  "theme_color": "#0a0806",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/Clue/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Clue/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
